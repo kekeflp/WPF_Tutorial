@@ -1,0 +1,17 @@
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\bin\Debug\netcoreapp3.1\TreeViewsAndValueConverters.exe
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\bin\Debug\netcoreapp3.1\TreeViewsAndValueConverters.deps.json
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\bin\Debug\netcoreapp3.1\TreeViewsAndValueConverters.runtimeconfig.json
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\bin\Debug\netcoreapp3.1\TreeViewsAndValueConverters.runtimeconfig.dev.json
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\bin\Debug\netcoreapp3.1\TreeViewsAndValueConverters.dll
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\bin\Debug\netcoreapp3.1\TreeViewsAndValueConverters.pdb
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\App.g.cs
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\TreeViewsAndValueConverters_MarkupCompile.cache
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\TreeViewsAndValueConverters_MarkupCompile.lref
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\TreeViewsAndValueConverters.g.resources
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\TreeViewsAndValueConverters.AssemblyInfoInputs.cache
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\TreeViewsAndValueConverters.AssemblyInfo.cs
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\TreeViewsAndValueConverters.dll
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\TreeViewsAndValueConverters.pdb
+D:\dotnet\WPF_Tutorial\TreeViewsAndValueConverters\TreeViewsAndValueConverters\obj\Debug\netcoreapp3.1\TreeViewsAndValueConverters.csprojAssemblyReference.cache
