@@ -1,0 +1,17 @@
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\bin\Debug\netcoreapp3.1\TheBasics.exe
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\bin\Debug\netcoreapp3.1\TheBasics.deps.json
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\bin\Debug\netcoreapp3.1\TheBasics.runtimeconfig.json
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\bin\Debug\netcoreapp3.1\TheBasics.runtimeconfig.dev.json
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\bin\Debug\netcoreapp3.1\TheBasics.dll
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\bin\Debug\netcoreapp3.1\TheBasics.pdb
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\TheBasics.csprojAssemblyReference.cache
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\App.g.cs
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\TheBasics_MarkupCompile.cache
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\TheBasics_MarkupCompile.lref
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\TheBasics.g.resources
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\TheBasics.AssemblyInfoInputs.cache
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\TheBasics.AssemblyInfo.cs
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\TheBasics.dll
+D:\dotnet\WPF_Tutorial\TheBasics\TheBasics\obj\Debug\netcoreapp3.1\TheBasics.pdb
