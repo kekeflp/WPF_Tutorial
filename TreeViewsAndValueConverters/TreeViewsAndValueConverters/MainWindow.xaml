@@ -5,8 +5,30 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TreeViewsAndValueConverters"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+        Loaded="Window_Loaded"  
+        Title="MainWindow" Height="600" Width="450">
+    <Border Padding="5">
+        <StackPanel>
+            <TreeView x:Name="FoldView">
+                <!-- 创建TreeView样式模板，相当于自定义样式 -->
+                <TreeView.Resources>
+                    <!-- 通过Style的各种属性生成各种风格迥异的效果 -->
+                    <Style TargetType="{x:Type TreeViewItem}">
+                        <!-- 选择属性HeaderTemplate:有标题的容器画标题的画笔-->
+                        <Setter Property="HeaderTemplate">
+                            <Setter.Value>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Image Source=".\Images\128213.png" Width="50" Margin="3"/>
+                                        <!-- 文本内容与HeaderTemplate绑定 -->
+                                        <TextBlock VerticalAlignment="Center" Text="{Binding}"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </TreeView.Resources>
+            </TreeView>
+        </StackPanel>
+    </Border>
 </Window>
