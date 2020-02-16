@@ -1,0 +1,17 @@
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\bin\Debug\netcoreapp3.1\SliderBinding.exe
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\bin\Debug\netcoreapp3.1\SliderBinding.deps.json
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\bin\Debug\netcoreapp3.1\SliderBinding.runtimeconfig.json
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\bin\Debug\netcoreapp3.1\SliderBinding.runtimeconfig.dev.json
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\bin\Debug\netcoreapp3.1\SliderBinding.dll
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\bin\Debug\netcoreapp3.1\SliderBinding.pdb
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\SliderBinding.csprojAssemblyReference.cache
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\App.g.cs
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\SliderBinding_MarkupCompile.cache
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\SliderBinding_MarkupCompile.lref
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\SliderBinding.g.resources
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\SliderBinding.AssemblyInfoInputs.cache
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\SliderBinding.AssemblyInfo.cs
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\SliderBinding.dll
+D:\dotnet\WPF_Tutorial\Binding\SliderBinding\obj\Debug\netcoreapp3.1\SliderBinding.pdb
