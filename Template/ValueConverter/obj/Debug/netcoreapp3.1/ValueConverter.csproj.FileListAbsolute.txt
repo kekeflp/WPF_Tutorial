@@ -1,0 +1,17 @@
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\bin\Debug\netcoreapp3.1\ValueConverter.exe
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\bin\Debug\netcoreapp3.1\ValueConverter.deps.json
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\bin\Debug\netcoreapp3.1\ValueConverter.runtimeconfig.json
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\bin\Debug\netcoreapp3.1\ValueConverter.runtimeconfig.dev.json
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\bin\Debug\netcoreapp3.1\ValueConverter.dll
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\bin\Debug\netcoreapp3.1\ValueConverter.pdb
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\App.g.cs
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\ValueConverter_MarkupCompile.cache
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\ValueConverter_MarkupCompile.lref
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\ValueConverter.g.resources
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\ValueConverter.AssemblyInfoInputs.cache
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\ValueConverter.AssemblyInfo.cs
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\ValueConverter.dll
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\ValueConverter.pdb
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\DataTemple.g.cs
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\DataTemple.baml
+D:\dotnet\WPF_Tutorial\Template\ValueConverter\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
